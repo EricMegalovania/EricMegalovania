@@ -1,6 +1,8 @@
-## Hi there 👋
+![]("./The 2025 ECF Hangzhou Member1 Certificate5851681842369369179_page-0001.jpg")
 
 <!--
+## Hi there 👋
+
 **EricMegalovania/EricMegalovania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
