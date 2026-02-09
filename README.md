@@ -12,11 +12,13 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://codeforces.com/profile/Meguhine">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Meguhine&theme=solarized-light&disable_animations=true&show_icons=true&force_username=true" alt="Codeforces Stats">
   </a>
 </p>
+--!>
 
 <!--
 ## Hi there 👋
